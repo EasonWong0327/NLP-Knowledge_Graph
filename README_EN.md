@@ -1,4 +1,4 @@
-# Financial Knowledge Graph Construction System
+# Financial Knowledge Graph System
 [🇨🇳 Chinese](README.md) | [🇺🇸 English](README_EN.md)
 
 ## Project Overview
